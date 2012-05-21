@@ -19,7 +19,7 @@ This function only restores a subset of the options from a session. Currently
 only "repos" is restored.
 }
 \value{
-This method is called for it's side-effect of setting option values.
+This method is called for its side-effect of setting option values.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}

@@ -41,7 +41,7 @@ the sessionInfo object is first stored in the global environment as an object na
 .sessionInfo.
 }
 \value{
-This method is called for it's side-effects, which is a file storing the current session.
+This method is called for its side-effects, which is a file storing the current session.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}

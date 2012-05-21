@@ -25,7 +25,7 @@ environment from which to restore generics. if this argument is provided the "fi
 }
 
 \value{
-This method is executed for it's side-effects.
+This method is executed for its side-effects.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}

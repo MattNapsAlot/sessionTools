@@ -24,7 +24,7 @@ that are not in the sessionInfo's search path should be removed.
 }
 }
 \value{
-This method is executed for it's side-effects, which is a modified search path.
+This method is executed for its side-effects, which is a modified search path.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}

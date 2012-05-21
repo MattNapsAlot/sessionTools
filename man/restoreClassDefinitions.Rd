@@ -25,7 +25,7 @@ environment from which to restore class definitions. if this argument is provide
 }
 
 \value{
-This method is executed for it's side-effects.
+This method is executed for its side-effects.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}
