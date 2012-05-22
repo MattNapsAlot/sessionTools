@@ -30,7 +30,7 @@ Boolean indicating whether a warning be displayed if not all packages can be ins
 }
 }
 \value{
-This method is executed for it's side-effects, which is to install packages to the default library.
+This method is executed for its side-effects, which is to install packages to the default library.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}

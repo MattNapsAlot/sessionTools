@@ -23,7 +23,7 @@ boolean indicating whether the environment should be purged prior to restoring o
 }
 
 \value{
-This method is executed for it's side-effects.
+This method is executed for its side-effects.
 }
 \author{
 Matthew D. Furia \email{matt.furia@sagebase.org}
